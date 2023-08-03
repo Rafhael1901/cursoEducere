@@ -1,10 +1,10 @@
-#Curso Educeria
+# Curso Educeria
 
 repostorio criado para o bootcamp do integrado em parceria com a fundação educere.
 
 O repositorio foi criado para aplicar os conceitos vistos nas aulas de controle de verão, utilizando git e GitHub
 
-##Comandos aprendidos
+## Comandos aprendidos
 
 - `git config --global user.name "Rafhael1901"`
     -  Configuração do meu usuario github no meu computador.
